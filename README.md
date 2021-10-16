@@ -14,7 +14,7 @@ Refactor existing code to meet requirements
 https://mnshaun24.github.io/weekly-challenge-one/
 
 ## Github URL
-https://github.com/mnshaun24/weekly-challenge-one/edit/main/
+https://github.com/mnshaun24/weekly-challenge-one
 
 
 ## Screenshot
